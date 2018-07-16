@@ -1,0 +1,17 @@
+C:\Users\Sakel Hossain\source\repos\CodingChallenges\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Sakel Hossain\source\repos\CodingChallenges\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Sakel Hossain\source\repos\CodingChallenges\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Sakel Hossain\source\repos\CodingChallenges\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Sakel Hossain\source\repos\CodingChallenges\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Sakel Hossain\source\repos\CodingChallenges\UnitTestProject1\bin\Debug\CodingChallenges.exe
+C:\Users\Sakel Hossain\source\repos\CodingChallenges\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Sakel Hossain\source\repos\CodingChallenges\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Sakel Hossain\source\repos\CodingChallenges\UnitTestProject1\bin\Debug\CodingChallenges.pdb
+C:\Users\Sakel Hossain\source\repos\CodingChallenges\UnitTestProject1\bin\Debug\CodingChallenges.exe.config
+C:\Users\Sakel Hossain\source\repos\CodingChallenges\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Sakel Hossain\source\repos\CodingChallenges\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Sakel Hossain\source\repos\CodingChallenges\UnitTestProject1\obj\Debug\PalindromeTest.csprojAssemblyReference.cache
+C:\Users\Sakel Hossain\source\repos\CodingChallenges\UnitTestProject1\obj\Debug\PalindromeTest.csproj.CoreCompileInputs.cache
+C:\Users\Sakel Hossain\source\repos\CodingChallenges\UnitTestProject1\obj\Debug\PalindromeTest.csproj.CopyComplete
+C:\Users\Sakel Hossain\source\repos\CodingChallenges\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Sakel Hossain\source\repos\CodingChallenges\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

@@ -1,0 +1,7 @@
+C:\Users\Sakel Hossain\source\repos\CodingChallenges\CodingChallenges\bin\Debug\CodingChallenges.exe.config
+C:\Users\Sakel Hossain\source\repos\CodingChallenges\CodingChallenges\bin\Debug\CodingChallenges.exe
+C:\Users\Sakel Hossain\source\repos\CodingChallenges\CodingChallenges\bin\Debug\CodingChallenges.pdb
+C:\Users\Sakel Hossain\source\repos\CodingChallenges\CodingChallenges\obj\Debug\CodingChallenge.csprojAssemblyReference.cache
+C:\Users\Sakel Hossain\source\repos\CodingChallenges\CodingChallenges\obj\Debug\CodingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Sakel Hossain\source\repos\CodingChallenges\CodingChallenges\obj\Debug\CodingChallenges.exe
+C:\Users\Sakel Hossain\source\repos\CodingChallenges\CodingChallenges\obj\Debug\CodingChallenges.pdb
